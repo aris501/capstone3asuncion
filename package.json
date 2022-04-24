@@ -1,0 +1,21 @@
+{
+  "name": "capstone3asuncion",
+  "version": "1.0.0",
+  "description": "Capstone 3 project",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zuitt-projects-asuncion/capstone3asuncion.git"
+  },
+  "author": "Aristar Asuncion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zuitt-projects-asuncion/capstone3asuncion/issues"
+  },
+  "homepage": "https://gitlab.com/zuitt-projects-asuncion/capstone3asuncion#readme"
+}
