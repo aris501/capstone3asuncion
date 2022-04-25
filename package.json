@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://gitlab.com/zuitt-projects-asuncion/capstone3asuncion/issues"
   },
-  "homepage": "https://gitlab.com/zuitt-projects-asuncion/capstone3asuncion#readme"
+  "homepage": "https://gitlab.com/zuitt-projects-asuncion/capstone3asuncion#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
